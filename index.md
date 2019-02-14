@@ -1,6 +1,6 @@
-<p align="center"><big><b>
+<p align="center"><big>
 Welcome to Jane Seo's GitHub Page!
-<\b><\big></p>
+<\big></p>
 <p align="center">
   <img width="600" src=JHS.JPG>
 </p>
