@@ -1,3 +1,3 @@
 ## Links
 
-[Home](./)
+[LinkedIn](https://www.linkedin.com/in/janehijunseo/)
