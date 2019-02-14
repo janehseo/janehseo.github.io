@@ -1,5 +1,5 @@
 <h1 align="center">
-Welcome to Jane Seo's GitHub Page!
+Welcome to Jane's GitHub Page!
 </h1>
 
 
