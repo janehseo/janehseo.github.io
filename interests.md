@@ -1,3 +1,3 @@
 ## Interests
 
-[Home](./)
+My interests include biomaterials and coding.
