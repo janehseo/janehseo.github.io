@@ -1,5 +1,3 @@
-## Welcome to another page
-
-Research and Experience
+## Research and Experience
 
 [Home](./)
