@@ -1,6 +1,6 @@
-<p align="center"><fontsize = "40"><b>
+<h1 align="center">
 Welcome to Jane Seo's GitHub Page!
-</b></fontsize></p>
+</h>
 
 
 <p align="center">
