@@ -1,4 +1,4 @@
-<p align="center"><fontsize = "6"><b>
+<p align="center"><fontsize = "7"><b>
 Welcome to Jane Seo's GitHub Page!
 </b></fontsize></p>
 
