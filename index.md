@@ -7,5 +7,5 @@ Welcome to Jane's GitHub Page!
   <img width="400" src="/LinkedIn.png">
 </p>
 <p align="left">
-I am a senior Biomedical Engineering Student at the University of Toronto. My research interests include biomaterials and coding. I am currently planning on attending graduate school for biomedical engineering.
+I am a MASc student in Biomedical Engineering at the University of Toronto. My research interests include biomechanics and coding.
 </p>
