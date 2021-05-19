@@ -1,4 +1,4 @@
-## Research and Work Experience
+## Professional Experience
 
 * Simmons Lab, University of Toronto (2019 September - 2021 August (Expected))
 * Fernandez-Gonzalez Lab, University of Toronto (2018 June - 2019 April)
