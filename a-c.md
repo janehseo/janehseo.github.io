@@ -1,4 +1,4 @@
 ## Awards
 
 * Orbis Den Competition Winner (March 2019)
-* Barbara & Frank Milligan Graduate Fellowship
+* Barbara & Frank Milligan Graduate Fellowship (Sept 2019)
